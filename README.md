@@ -11,7 +11,7 @@
   </a>
 </p>
 
----
+
 
 ### About Me
 
@@ -24,7 +24,6 @@ My work focuses on building intelligent, automated, and cloud-native network sys
 - Strong research background in **IoT, Nano-IoT, Edge/Cloud Computing, and Network AI**  
 - Passionate about bridging **academic innovation** and **real-world network design**
 
----
 
 ### Languages & Tools
 
@@ -46,7 +45,6 @@ My work focuses on building intelligent, automated, and cloud-native network sys
   <a href="https://pandas.pydata.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </p>
 
----
 
 ### Featured Projects
 
@@ -56,8 +54,6 @@ My work focuses on building intelligent, automated, and cloud-native network sys
 - **IoT Edge Analytics** – Data collection, ML inference, and visualization for IoT edge use cases  
 
 
----
-
 ### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/akramgalal" target="blank">
@@ -65,7 +61,6 @@ My work focuses on building intelligent, automated, and cloud-native network sys
   </a>
 </p>
 
----
 
 ### GitHub Stats
 
@@ -74,5 +69,3 @@ My work focuses on building intelligent, automated, and cloud-native network sys
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akramgalal&show_icons=true&locale=en" alt="akramgalal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramgalal&" alt="akramgalal" /></p>
-
----
