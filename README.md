@@ -1,21 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akram Galal</h1>
-<h3 align="center">Network Management Solutions Architect | Researcher | Cloud & DevOps Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akramgalal&label=Profile%20views&color=0e75b6&style=flat" alt="akramgalal" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akramgalal&theme=gruvbox&row=1&column=6" alt="akramgalal" />
-  </a>
-</p>
-
-
-
-### About Me
-
-I’m **Akram Galal**, a **Network Management Solutions Architect at Nokia (Spain)** with over **15 years of experience** across **telecommunications, research, and software automation**.  
+**Akram Galal**, a **Network Management Solutions Architect at Nokia (Spain)** with over **15 years of experience** across **telecommunications, research, and software automation**.  
 My work focuses on building intelligent, automated, and cloud-native network systems that integrate **SDN**, **NFV**, **edge computing**, and **AI/ML** for next-generation service orchestration.
 
 - **Ph.D. in Telematics Engineering** – UPC BarcelonaTech  
@@ -29,7 +12,6 @@ My work focuses on building intelligent, automated, and cloud-native network sys
 
 <p align="left">
   <a href="https://aws.amazon.com" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <a href="https://azure.microsoft.com/en-in/" target="blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
   <a href="https://www.gnu.org/software/bash/" target="blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
   <a href="https://www.docker.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <a href="https://www.jenkins.io" target="blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
