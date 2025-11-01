@@ -14,6 +14,7 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+---
 
 ## Skills and Tools
 
@@ -74,9 +75,9 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> TensorFlow &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> Terraform &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/> Vagrant &nbsp;&nbsp;
-
 </p>
 
+---
 
 ## GitHub Stats
 <p>
