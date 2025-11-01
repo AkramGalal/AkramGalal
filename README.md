@@ -5,11 +5,14 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 <a href="https://www.linkedin.com/in/akramgalal"><img src="https://img.shields.io/badge/LinkedIn-Akram%20Galal-blue?logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
+<p>
+  <img align="center" src="https://komarev.com/ghpvc/?username=akramgalal&color=blue" alt="Profile Views" />
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramgalal" alt="akramgalal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 
 ## Skills and Tools
@@ -48,11 +51,11 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> MySQL &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/> NumPy &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/> OpenCV &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" width="40" height="40"/> OpenStack &nbsp;&nbsp;
 
 <br><br>
 
 <!-- Row 4 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" width="40" height="40"/> OpenStack &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas &nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> Postman &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> PostgreSQL &nbsp;&nbsp;
@@ -60,11 +63,11 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> Python &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/> PyTorch &nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/> RabbitMQ &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/> Redis &nbsp;&nbsp;
 
 <br><br>
 
 <!-- Row 5 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/> Redis &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" height="40"/> Red Hat &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> Scikit-learn &nbsp;&nbsp;
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> Seaborn &nbsp;&nbsp;
@@ -73,11 +76,12 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> Terraform &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/> Vagrant &nbsp;&nbsp;
 
+<br><br>
+
 </p>
 
----
 
-### GitHub Stats
+## GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akramgalal&show_icons=true&locale=en&layout=compact" alt="akramgalal" />
 </p>
@@ -90,8 +94,3 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramgalal" alt="akramgalal" />
 </p>
 
-<p>
-  <img align="center" src="https://komarev.com/ghpvc/?username=akramgalal&color=blue" alt="Profile Views" />
-</p>
-
----
