@@ -1,8 +1,8 @@
-## 👋 About Me
+## About Me
 Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, and CI/CD pipelines, with a strong focus on bridging research and development with industry practice.
 
 ---
-### 🧭 Technical Skills & Tools
+### Technical Skills & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> AWS &nbsp;&nbsp;
@@ -28,7 +28,7 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 
 
 ---
-### 📊 GitHub Stats
+### GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akramgalal&show_icons=true&locale=en&layout=compact" alt="akramgalal" />
 </p>
