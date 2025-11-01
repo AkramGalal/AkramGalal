@@ -6,7 +6,7 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 
 <p align="left">
 
-  <!-- Row 1: DevOps & Cloud -->
+  <!-- Row 1: Cloud & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> AWS &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> Google Cloud &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> Docker &nbsp;&nbsp;
@@ -51,16 +51,15 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 
   <br><br>
 
-  <!-- Row 5: AI & CV -->
+  <!-- Row 5: AI & Computer Vision -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/> OpenCV &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> TensorFlow &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/> PyTorch
 
 </p>
 
-
-
 ---
+
 ### GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akramgalal&show_icons=true&locale=en&layout=compact" alt="akramgalal" />
