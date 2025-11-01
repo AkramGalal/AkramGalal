@@ -2,7 +2,9 @@
 
 Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, and CI/CD pipelines, with a strong focus on bridging research and development with industry practice.
 
----
+  <a href="https://www.linkedin.com/in/akramgalal"><img src="https://img.shields.io/badge/LinkedIn-Akram%20Galal-blue?logo=linkedin" alt="LinkedIn"/></a>
+</p>
+
 
 ## 🧭 Technical Skills & Tools
 
@@ -80,25 +82,3 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 </p>
 
 ---
-
-### 🏆 Badges & Achievements
-<p>
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-Akram%20Galal-blue?logo=linkedin)
-  ![PhD](https://img.shields.io/badge/PhD-Telematics%20Engineering-red)
-  ![Stack Overflow](https://img.shields.io/badge/StackOverflow-Akram-orange?logo=stackoverflow)
-</p>
-
----
-
-### 🚀 Featured Projects
-- **Network Automation Toolkit** – Automation scripts and tools for NSP & cloud deployments.
-- **NSP CI/CD Pipelines** – Implementation of CI/CD pipelines using Jenkins, GitLab, and ArgoCD.
-- **ML for Network Analytics** – Projects using Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch.
-
----
-
-### 📫 Contact
-<p>
-  <a href="https://www.linkedin.com/in/akramgalal"><img src="https://img.shields.io/badge/LinkedIn-Akram%20Galal-blue?logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:akramgalal@example.com"><img src="https://img.shields.io/badge/Email-akramgalal-red?logo=gmail" alt="Email"/></a>
-</p>
