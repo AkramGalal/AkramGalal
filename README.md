@@ -74,10 +74,12 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> Seaborn &nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> SQLite &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> TensorFlow &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> Terraform &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/> Vagrant &nbsp;&nbsp;
+
 
 <br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> Terraform &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/> Vagrant &nbsp;&nbsp;
 
 </p>
 
