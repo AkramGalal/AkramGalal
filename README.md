@@ -46,22 +46,6 @@ My work focuses on building intelligent, automated, and cloud-native network sys
 </p>
 
 
-### Featured Projects
-
-- **NSP Automation & Orchestration** – Heat templates for multi-cluster deployments and service lifecycle management  
-- **Jenkins on Kubernetes** – Helm-based deployment for automated CI/CD pipelines  
-- **Network Topology Simulation** – ContainerLab and Vagrant experiments for SDN/NFV testing  
-- **IoT Edge Analytics** – Data collection, ML inference, and visualization for IoT edge use cases  
-
-
-### Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/akramgalal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akramgalal" height="30" width="40" />
-  </a>
-</p>
-
-
 ### GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akramgalal&show_icons=true&locale=en&layout=compact" alt="akramgalal" /></p>
