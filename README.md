@@ -2,9 +2,19 @@
 
 Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, and CI/CD pipelines, with a strong focus on bridging research and development with industry practice.
 
-  <a href="https://www.linkedin.com/in/akramgalal"><img src="https://img.shields.io/badge/LinkedIn-Akram%20Galal-blue?logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/akramgalal"><img src="https://img.shields.io/badge/LinkedIn-Akram%20Galal-blue?logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramgalal" alt="akramgalal" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akramgalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akramgalal" height="30" width="40" /></a>
+</p>
 
 ## 🧭 Technical Skills & Tools
 
