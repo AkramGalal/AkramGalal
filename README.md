@@ -6,7 +6,7 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 </p>
 
 <p>
-  <img align="center" src="https://komarev.com/ghpvc/?username=akramgalal&color=blue" alt="Profile Views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=akramgalal&color=blue" alt="Visitors" />
 </p>
 
 
