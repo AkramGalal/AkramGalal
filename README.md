@@ -10,8 +10,6 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramgalal" alt="akramgalal" /></a> </p>
-
 ---
 
 ## Skills and Tools
