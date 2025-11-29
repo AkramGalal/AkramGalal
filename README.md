@@ -72,18 +72,3 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> Terraform &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/> Vagrant &nbsp;&nbsp;
 </p>
-
----
-
-## GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akramgalal&show_icons=true&locale=en&layout=compact" alt="akramgalal" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akramgalal&show_icons=true&locale=en" alt="akramgalal" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramgalal" alt="akramgalal" />
-</p>
