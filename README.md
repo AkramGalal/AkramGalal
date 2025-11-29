@@ -87,4 +87,3 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramgalal" alt="akramgalal" />
 </p>
-
