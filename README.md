@@ -13,9 +13,6 @@ Solutions Architect at Nokia, skilled in DevOps, DevNetOps, network automation, 
 ---
 
 ## Skills and Tools
-
-<p align="left">
-
 <!-- Row 1 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> AWS &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/> Ansible &nbsp;&nbsp;
